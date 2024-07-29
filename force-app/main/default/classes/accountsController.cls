@@ -1,4 +1,5 @@
 public with sharing class accountsController {
+    //class to get account details
     public accountsController() {
 
     }
